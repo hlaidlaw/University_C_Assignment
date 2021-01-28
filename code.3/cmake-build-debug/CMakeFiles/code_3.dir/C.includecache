@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hannahlaidlaw/BT Cloud/HANNAH/Aberyswtwyth/Second Year/CS23820 - C and C ++/Main Assignment/TOSUBMIT/code.3/Header.h
+time.h
+-
+stdbool.h
+/Users/hannahlaidlaw/BT Cloud/HANNAH/Aberyswtwyth/Second Year/CS23820 - C and C ++/Main Assignment/TOSUBMIT/code.3/stdbool.h
+string.h
+-
+
+/Users/hannahlaidlaw/BT Cloud/HANNAH/Aberyswtwyth/Second Year/CS23820 - C and C ++/Main Assignment/TOSUBMIT/code.3/mainFunction.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Header.h
+/Users/hannahlaidlaw/BT Cloud/HANNAH/Aberyswtwyth/Second Year/CS23820 - C and C ++/Main Assignment/TOSUBMIT/code.3/Header.h
+ctype.h
+-
+

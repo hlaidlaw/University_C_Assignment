@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/code_3.dir/main.c.o CMakeFiles/code_3.dir/functions.c.o CMakeFiles/code_3.dir/generateMovements.c.o CMakeFiles/code_3.dir/ExtensionFeature.c.o CMakeFiles/code_3.dir/mainFunction.c.o  -o code_3 

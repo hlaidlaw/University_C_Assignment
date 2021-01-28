@@ -1,0 +1,5 @@
+movement_duration <0 : 604800>
+maximum_speed 50.0
+num_bars 20
+range_lon < 0 : 0 >
+range_lat < 0 : 0 >
