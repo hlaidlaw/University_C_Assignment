@@ -166,11 +166,18 @@ There is also a comment at the top of each class describing the class.
 -------------------Standard Libraries-----------------------------------------------------
 
 #include <stdio.h>
+
 #include <stdlib.h>
+
 #include <string.h>
+
 #include <ctype.h>
+
 #include <math.h>
+
 #include <time.h>
+
 #include "stdbool.h"
+
 #include "Header.h"
 
