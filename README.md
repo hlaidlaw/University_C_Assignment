@@ -46,9 +46,6 @@ Extra .txt files can be created if wished, however nothing more is needed than t
 
 -------------------Expected Output--------------------------------------------------------
 
-The expected outputs are shown on the screencast however they are also listed below.
-
-
 The user is prompted to enter the name of a config file.
 
 If a config file is given:
