@@ -1,10 +1,11 @@
 # University_C_Assignment
 Assignment that was submitted for a second year university module named "C and C ++". The project was coded in C and achieved a first.
 
+The brief was to collect GPS data from sheep collars, remove repeated data/data that was unreasonable. The data was then written to a csv file.
+This process was designed using a config file where the user could enter the parameters they wanted to control the processing of the data such as where to store that data, maximum speed to conside and duration of movement etc. .
+
 CS23820 Assessed Assignment 2020-2021: 
 “Analysing Sheep Behaviour from Tracker Tag Data”
-
-Hannah Laidlaw HAL34
 
 -------------------What the project contains----------------------------------------------
 
@@ -32,6 +33,8 @@ Also included are 3 .txt files :
 	default.txt - the default values for the configuration file
 
 	Example.txt - the default file to save the changes to the config file too.
+	
+	Collar_12.txt - text file containing the raw data movements from Collar 12 to be processed.
 
 
 All the .txt files should be placed in the cmake-build-debug folder. The rest should just be in the main code folder.
@@ -39,10 +42,7 @@ All the .txt files should be placed in the cmake-build-debug folder. The rest sh
 
 -------------------What you need to run the project---------------------------------------
 
-To successfully run this project you will also need a text file with the data of movements in from the collar.
-
 Extra .txt files can be created if wished, however nothing more is needed than the ones provided.
-
 
 -------------------Expected Output--------------------------------------------------------
 
